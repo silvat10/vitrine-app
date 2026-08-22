@@ -1,0 +1,9 @@
+{
+  "name": "vitrine-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy serverless que consulta a Google Places API (New) para o app Vitrine.",
+  "engines": {
+    "node": ">=18"
+  }
+}
